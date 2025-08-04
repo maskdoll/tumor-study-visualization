@@ -1,0 +1,6 @@
+patient_id,tumor_type,dose,time,endpoint
+S01001,PDAC,0.1mg,63,PD
+S01002,NSCLC,0.1mg,125,No_PD_or_Death
+S01003,NSCLC,0.1mg,77,PD
+S01004,NSCLC,0.2mg,76,No_PD_or_Death
+S01005,PDAC,0.2mg,38,No_PD_or_Death
